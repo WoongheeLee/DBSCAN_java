@@ -144,8 +144,8 @@ public class DBSCAN {
 	}
 	
 	public static void main(String[] args) {
-		String file1 = "C:\\Users\\Woonghee\\workspace\\DBSCAN\\g2-txt\\g2-8-30.txt";
-		String file2 = "C:\\Users\\Woonghee\\workspace\\DBSCAN\\g2-gt-pa\\g2-8-30-gt.pa";
+		String file1 = "g2-8-30.txt";
+		String file2 = "g2-8-30-gt.pa";
 		final double eps = 75.0;
 		final int minPts = 3;
 		
